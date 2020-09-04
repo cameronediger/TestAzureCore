@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TestAzureCore/obj
+/TestAzureCore/bin
+/.vs
+/TestAzureCore/Properties
+*.user
