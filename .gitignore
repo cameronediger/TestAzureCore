@@ -7,3 +7,12 @@
 /.vs
 /TestAzureCore/Properties
 *.user
+/Api/.vs/TestAzureCoreAPI
+/Api/TestAzureCoreAPI/bin
+/Api/TestAzureCoreAPI/obj
+/Api/TestAzureCoreAPI/Properties
+/MainApp/.vs
+/MainApp/TestAzureCore/bin
+/MainApp/TestAzureCore/obj
+/MainApp/TestAzureCore/Properties/PublishProfiles
+/MainApp/TestAzureCore/Properties/ServiceDependencies/cecoretest - Web Deploy
